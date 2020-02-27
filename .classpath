@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/All-MB.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/aspectjrt.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/bpmutil.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/certj.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/ci.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/collaboration.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/configservice-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/configservice-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/cryptoj.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/cryptojce.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/cryptojcommon.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/dfc.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/DmcRecords.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/dms-client-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/jcifs-krb5-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/jcm.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/jcmandroidfips.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/jcmFIPS.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/jsr173_api.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/krbutil.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/messageArchive.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/messageService.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/questFixForJDK7.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/subscription.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/util.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/vsj-license.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/vsj-standard-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/workflow.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/xtrim-api.jar"/>
+	<classpathentry kind="lib" path="C:/Documentum/Shared/xtrim-server.jar"/>
+	<classpathentry kind="lib" path="config"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
